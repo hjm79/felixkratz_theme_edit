@@ -21,5 +21,4 @@ echo "Cloning Config"
 git clone https://github.com/hjm79/felixkratz_theme_edit.git /tmp/dotfiles
 mv $HOME/.config/sketchybar $HOME/.config/sketchybar_backup
 mv /tmp/dotfiles/.config/sketchybar $HOME/.config/sketchybar
-rm -rf /tmp/dotfiles
 brew services restart sketchybar
