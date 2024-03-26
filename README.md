@@ -10,3 +10,7 @@ https://github.com/FelixKratz/dotfiles/tree/0619040a8eebbf9896c5ce4fc9d312270426
 
 기존 음악 앨범을 좀 더 키우고 캘린더 클릭 시 캘린더 어플이 열리게 추가했습니다.
 
+
+```
+curl -L https://raw.githubusercontent.com/hjm79/felixkratz_theme_edit/main/helpers/install.sh | sh
+```
