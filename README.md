@@ -11,6 +11,7 @@ https://github.com/FelixKratz/dotfiles/tree/0619040a8eebbf9896c5ce4fc9d312270426
 ### 수정 사항
 
 <br/>
+
 #### 앨범아트 크기조정 및 캘린더 열기
 
 
