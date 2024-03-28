@@ -1,3 +1,7 @@
+# Install xCode cli tools
+echo "Installing commandline tools..."
+xcode-select --install
+
 echo "Installing Dependencies"
 # Packages
 brew install lua
