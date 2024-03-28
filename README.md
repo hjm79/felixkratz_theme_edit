@@ -27,7 +27,7 @@ curl -L https://raw.githubusercontent.com/hjm79/felixkratz_theme_edit/main/helpe
 스페이스를 클릭하면 해당하는 스페이스로 이동하게 했습니다.
 이 이기능을 사용하시려면 btt가 설치되어 있어야 합니다.
 <br/>
-![스페이스](https://github.com/hjm79/desktop-tutorial/blob/main/space.png)
+![스페이스]([https://github.com/hjm79/desktop-tutorial/blob/main/space.png](https://github.com/hjm79/desktop-tutorial/assets/51636240/08bec5da-16ea-4c97-a5d9-472129c5b2d5))
 
 <br/><br/>
 아래 해당하는 액션을 복사 후 사파리창 또는 크롬창에 붙여넣기 하시고 엔터 누르시면 btt에서 해당 트리거를 가져오기 합니다.   
